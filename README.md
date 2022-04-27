@@ -15,4 +15,4 @@ Below are the result of the analysis
 
 * Vine and non-Vine % stars Review in %
 
-![Image Here](
+![Image Here](https://github.com/Thaofeeqat/Amazon_Vine_Analysis/blob/main/Images/Result%203.png)
