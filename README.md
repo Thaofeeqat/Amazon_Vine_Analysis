@@ -5,3 +5,6 @@ The Purpose of this analysis is to use the amazon dataset given to anlysis.The E
 
 # Results:
 Below are the result of the analysis
+ * Vine reviews and non-Vine reviews 
+
+![Image Here](
