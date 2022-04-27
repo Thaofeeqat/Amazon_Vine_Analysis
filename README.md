@@ -16,3 +16,6 @@ Below are the result of the analysis
 * Vine and non-Vine % stars Review in %
 
 ![Image Here](https://github.com/Thaofeeqat/Amazon_Vine_Analysis/blob/main/Images/Result%203.png)
+
+# Summary
+From the analysis we can say that there is only little positivity bias for reviews in the Vine program beacuse only 1% 5 stars review from the member 99% of the 5 stars review were from the non- vine members. 
