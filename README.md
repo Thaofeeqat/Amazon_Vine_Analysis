@@ -9,5 +9,10 @@ Below are the result of the analysis
 
 ![Image Here](https://github.com/Thaofeeqat/Amazon_Vine_Analysis/blob/main/Images/Result%201.png)
 
- * Viune and non-Vine 5 stars review
+ * Vine and non-Vine 5 stars Review
+
+![Image Here](https://github.com/Thaofeeqat/Amazon_Vine_Analysis/blob/main/Images/Result%202.png)
+
+* Vine and non-Vine % stars Review in %
+
 ![Image Here](
